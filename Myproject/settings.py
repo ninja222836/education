@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+hui = "or"
 # Application definition
 
 INSTALLED_APPS = [
